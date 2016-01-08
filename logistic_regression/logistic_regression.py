@@ -4,6 +4,7 @@ Created on Thu Oct 22 21:02:41 2015
 
 @author: Timber
 """
+
 import math
 import functools
 import pandas as pd
